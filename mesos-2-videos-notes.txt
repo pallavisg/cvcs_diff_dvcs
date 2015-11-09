@@ -1,0 +1,34 @@
+Mesosphere 7 mins video
+manage huge no of servers at the same time.
+
+maximum utilization of system's resources.
+
+cluster resize connects to our provisioning system ans adds new instances.
+
+as and when applications installed and services need to be started,without any human intervention the instances of nodes are utilised ad per requirement ensuring maximum utilization of resources.
+
+we can just specify the no of instances into which we want the load to be distributed and it is done.
+
+spark executes with all other services giving the datacenter a much higher utilisation of resources.
+
+with increase of traffic,auto scalaing is done and utilization of instances already fit in the datacenter.
+
+all 7 services in single dcos cluster and started in just 10 mins.
+
+dcos increases cpu utilization by 45%.
+
+
+Summary
+adding instances whenever sought
+distribution of load as specified
+45% increase in utilization
+traffic increase-auto scaling
+7 services started in a single cluster in less than 10 mins
+
+Building Distributed Systems with Apache Mesos-Ben Hindman
+Agenda
+1)What are datacenter applications?
+2)How should we run datacenter applications?
+3)How should we program datacenter applications?
+
+Distributed systems-stateless,statefull

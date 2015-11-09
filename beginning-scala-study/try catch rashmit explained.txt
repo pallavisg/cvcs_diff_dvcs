@@ -1,0 +1,28 @@
+//Java
+
+
+try{
+Integer.parseInt("Dog")
+}catch(Exception e){
+
+}
+
+//Scala
+
+try{
+Integer.parseInt("Dog")
+}catch(Exception e){
+case _ => "Wrong Input"
+}
+
+
+
+
+
+Java7 - Int
+
+switch(String){
+case 1 :
+{}
+
+case
