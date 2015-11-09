@@ -1,0 +1,76 @@
+links and videos
+Please study and complete this POC 
+
+Study from websites -  Codeship, CircleCI and Shippable    -  CI and CD on Cloud platforms - The Future !!!
+
+
+1) https://codeship.com/documentation/languages/nodejs/
+
+2) https://scotch.io/tutorials/speed-up-your-deployment-workflow-with-codeship-and-parallelci
+
+3) http://blog.codeship.com/heroku-github-nodejs-deployment/
+
+4) https://blog.risingstack.com/continuous-deployment-of-node-js-applications/
+
+5) www.tutum.com  [ Important features for future ]
+
+Please read these articles in detail - Concepts 
+
+
+Subject: Scala learning Slides
+ 
+http://presos.jamesward.com/intro-to-scala-for-java-devs/#/3
+
+https://medium.com/gutefrage-net-engineering/scala-cheatsheet-dcdec360f7a#.nh1mshdgb
+
+
+Some important tools:
+
+  1) Artifactory or Nexus 
+  2) Docker 
+  3) Mesos
+  4) Ansible 
+  5) Gulp & Grunt
+  6) SBT
+  7) UI testing tool - one atleast
+  8) Unit testing tools
+
+
+
+http://www.hacksparrow.com/the-mongodb-tutorial.html
+
+http://www.sitepoint.com/building-simple-blog-app-mongodb-php/
+
+
+
+
+•	Github
+•	Fisheye
+•	Crucible
+•	Jira
+•	Jira Agile
+•	Confluence
+•	Bitbucket
+•	SVN
+•	Bamboo
+•	Ant
+•	Gradle
+•	SBT
+•	Phpunit
+•	Phploc
+•	Phpmd
+•	Phpcpd
+•	Phpcs
+•	Mocha-chai
+•	Jasmine-karma
+•	Nightwatch
+•	Artifactory/Nexus
+•	Mongodb
+•	Gatling
+•	ExpressJs
+•	Chef/puppet/ansible
+•	Docker
+•	Play/finagle
+•	Apache spark
+•	Mesos
+•	Mesosphere
