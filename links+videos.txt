@@ -74,3 +74,17 @@ http://www.sitepoint.com/building-simple-blog-app-mongodb-php/
 •	Apache spark
 •	Mesos
 •	Mesosphere
+
+
+
+
+Mesos video –
+1) https://www.youtube.com/watch?v=dyLtK4FhCZE
+ 
+2)  https://www.youtube.com/watch?v=suL56vFil3Y
+
+3) https://www.youtube.com/watch?v=DnGzlsaLNTE
+
+4) https://www.youtube.com/watch?v=gmumkrFV7ig
+
+5) https://www.youtube.com/watch?v=X6sPKI4drAs
